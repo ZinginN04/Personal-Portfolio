@@ -605,6 +605,13 @@ section{
         filter: invert(1);
     }
 
+    img.bg-img {
+        width: 100vw;
+        height: auto;
+        display: block;
+        max-width: 100%;
+    }
+
     section{
         padding: 80px 20px;
     }
